@@ -14,3 +14,7 @@ You are only allowed to use CSS (preprocessors are allowed) and vanilla JS for t
 - Upon clicking each image, show a higher resolution image in a lightbox. Every image should have a link that points to the Unsplash site (https://unsplash.com/photos/...) and should also have the alt attribute populated from the response from the API. Make sure that each image has a default alt text if it's not available from the response. Other info to be displayed: likes and downloads count for the photo and photographer's username, avatar, portfolio URL and links to all the available social media.
 - As the user approaches the bottom of the page, a new batch of images is downloaded. You can choose to show another loader while the images are downloading. 
 - Allow the user to choose between list view (item occupies full width of the container) and grid view (several items are displayed in a row).
+
+### Deploying your project
+
+- [Vercel](https://vercel.com/)
